@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+img {
+  width: 500px;
+}
+.pageDiv {
+  align-items: center;
+  padding: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  color: white;
+  background-color: #07080c;
+  height: 100vh;
+}
+.button {
+  margin: 10px;
+}
